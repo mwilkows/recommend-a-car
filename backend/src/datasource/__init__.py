@@ -1,0 +1,1 @@
+INVENTORY = 'data/car-inventory.csv'
